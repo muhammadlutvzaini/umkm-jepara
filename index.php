@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" type="text/css" href="styles/global.css">
   <title>JeparaUMKM</title>
-  <link rel="shortcut icon" href="src/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="src/layout/favicon.ico" type="image/x-icon">
 </head>
 <body>
   <?php
