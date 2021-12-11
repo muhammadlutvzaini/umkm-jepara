@@ -1,0 +1,61 @@
+header {
+  margin-top: 65px;
+  background: url("../../../src/Header.jpeg");
+  text-align: center;
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  overflow: hidden;
+  border-radius: 0 0 85% 85% / 30%;
+}
+header .overlay {
+  width: 100%;
+  height: 500px;
+  padding: 50px;
+  color: #fff;
+  text-shadow: 1px 1px 1px #333;
+  background-image: linear-gradient(135deg, #00000069 10%, #5b290e6b 100%);
+}
+.overlay p {
+  font-size: 12px;
+  padding-top: 420px;
+  text-align: center;
+}
+/* 
+button {
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  border-radius: 50px;
+  color: #333;
+  background: #fff;
+  margin-bottom: 50px;
+  box-shadow: 0 3px 20px 0 #0000003b;
+}
+button:hover {
+  cursor: pointer;
+} */
+.content-1 {
+  text-align: center;
+  padding-top: 50px;
+}
+.content-1 h1 {
+  font-size: 30px;
+}
+.content-1 p {
+  line-height: 25px;
+}
+/* .content-3 {
+  padding-top: 150px;
+  text-align: center;
+} */
+
+.line {
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: #2cb67d;
+  margin: 20px auto;
+}
