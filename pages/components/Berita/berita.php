@@ -15,7 +15,7 @@
         <div class="card-info">
           <h2>JavaScript Quote Generator</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing amMLZMLZ</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
