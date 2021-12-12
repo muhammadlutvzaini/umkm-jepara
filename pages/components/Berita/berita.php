@@ -10,7 +10,7 @@
     <div class="cards grid-row">
       <div class="card">
         <div class="card-top">
-          <img src="img1.jpg" alt="Blog Name">
+          <img src="/src/content/jepara.jpg" alt="Blog Name">
         </div>
         <div class="card-info">
           <h2>JavaScript Quote Generator</h2>
