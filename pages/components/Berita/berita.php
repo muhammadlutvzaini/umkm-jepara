@@ -10,12 +10,12 @@
     <div class="cards grid-row">
       <div class="card">
         <div class="card-top">
-          <img src="/src/content/jepara.jpg" alt="Blog Name">
+          <img src="/src/content/kartini.jpg" alt="Kartini">
         </div>
         <div class="card-info">
-          <h2>JavaScript Quote Generator</h2>
+          <h2>Kabupaten Jepara: “Bumi Kartini” di Utara Jawa Tengah</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing amMLZMLZ</p>
+          <p class="excerpt">Jepara terkenal dengan julukan "Bumi Kartini" karena mempunyai kaitan sejarah yang kuat dengan pahlawan nasional Raden Ajeng Kartini. Selain itu, kabupaten ini dikenal pula sebagai daerah penghasil kerajinan ukiran kayu yang terkenal hingga mancanegara.</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
