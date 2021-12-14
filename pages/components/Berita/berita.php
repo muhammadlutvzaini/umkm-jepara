@@ -58,7 +58,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         <div class="card-info">
           <h2>UMKM Kain Tenun Troso warisan Nenek Moyang yang punya daya saing pada era globalisasi</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Kain tenun Troso merupakan produk yang bertempat di Desa Troso, Kecamatan Pecangaan, Kabupaten Jepara. Sentra Tenun Troso menjadi kebanggaan tersendiri bagi warga Jepara ketika produk kain tenun bisa sampai ke luar kota seperti Jakarta, Bali, Nusa Tenggara Barat (NTB), Nusa Tenggara Timur (NTT) dan Lombok. Meskipun wisatawan belum banyak mengetahui bahwa produksi kain tenun tersebut diproduksi dari Jepara.s</p>
+          <p class="excerpt">Kain tenun Troso merupakan produk yang bertempat di Desa Troso, Kecamatan Pecangaan, Kabupaten Jepara. Sentra Tenun Troso menjadi kebanggaan tersendiri bagi warga Jepara ketika produk kain tenun bisa sampai ke luar kota seperti Jakarta, Bali, Nusa Tenggara Barat (NTB), Nusa Tenggara Timur (NTT) dan Lombok.</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
@@ -67,12 +67,12 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
       </div>
       <div class="card">
         <div class="card-top">
-          <img src="img3.jpg" alt="Blog Name">
+          <img src="src/content/monel.jpg" alt="Monel Jepara">
         </div>
         <div class="card-info">
-          <h2>How to Build Signature Pad</h2>
+          <h2>Perajin Monel Khas Jepara, Raup Omzet Puluhan Juta, Dipesan dari Berbagai Negara</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+          <p class="excerpt">Kabupaten Jepara tidak melulu soal ukiran kayu. Di Desa Kriyan, Kecamatan Kalinyamatan, sejumlah anak muda menjalankan bisnis kerajinan monel. Tidak tanggung-tanggung, bisnis ini bisa meraup omzet puluhan juta. Bahkan tidak jarang, perajin terima pesanan dari negeri tetangga.</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
@@ -81,12 +81,12 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
       </div>
       <div class="card">
         <div class="card-top">
-          <img src="img3.jpg" alt="Blog Name">
+          <img src="src/content/mayongjepara.jpg" alt="Keramik Mayong">
         </div>
         <div class="card-info">
-          <h2>How to Build Signature Pad</h2>
+          <h2>Keramik Mayong Jepara menjadi mata pencaharian utama warga</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+          <p class="excerpt">Sebagai daerah sentra industri kerajinan rakyat, sebagian besar warga masyarakat desanya menggantungkan kebutuhan ekonomi rumah tangganya pada kegiatan memproduksi kerajinan keramik. Berbagai kerajinan gerabah untuk kebutuhan rumah tangga dan mainan anak-anak adalah produk khas yang mewarnai kehidupan perkeramikan di daerah tersebut. Selain itu daerah ini juga merupakan daerah penghasil genteng dan batu bata. </p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
