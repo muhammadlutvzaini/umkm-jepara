@@ -38,12 +38,27 @@
       </div>
       <div class="card">
         <div class="card-top">
-          <img src="img3.jpg" alt="Blog Name">
+          <img src="src/content/mebel.jpg" alt="Foto mebel Jepara">
         </div>
         <div class="card-info">
-          <h2>How to Build Signature Pad</h2>
+          <h2>Kisah Penjual Mebel Jepara yang Mendunia</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+          <p class="excerpt">Indonesia memiliki banyak sekali hasil alam yang saat ini menjadi pusat komiditi yang bisa di impor ke luar negeri salah satunya adalah hasil kreatif olah tangan dalam bidang furniture.
+Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali mendunia dengan hasil import mebel baik lemari, meja, kursi, sampai dengan jenis jn jenis furniture lainya.</p>
+        </div>
+        <div class="card-bottom flex-row">
+          <a href="#" class="read-more">Read Full Blog</a>
+          <a href="#" class="button btn-dpink">Blog</a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-top">
+          <img src="/src/content/tenuntroso.jpg" alt="Pengrajin Tenun Troso">
+        </div>
+        <div class="card-info">
+          <h2>UMKM Kain Tenun Troso warisan Nenek Moyang yang punya daya saing pada era globalisasi</h2>
+          <span class="date">Monday, Jan 20, 2021</span>
+          <p class="excerpt">Kain tenun Troso merupakan produk yang bertempat di Desa Troso, Kecamatan Pecangaan, Kabupaten Jepara. Sentra Tenun Troso menjadi kebanggaan tersendiri bagi warga Jepara ketika produk kain tenun bisa sampai ke luar kota seperti Jakarta, Bali, Nusa Tenggara Barat (NTB), Nusa Tenggara Timur (NTT) dan Lombok. Meskipun wisatawan belum banyak mengetahui bahwa produksi kain tenun tersebut diproduksi dari Jepara.s</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
@@ -92,35 +107,7 @@
           <a href="#" class="button btn-dpink">Blog</a>
         </div>
       </div>
-      <div class="card">
-        <div class="card-top">
-          <img src="img3.jpg" alt="Blog Name">
-        </div>
-        <div class="card-info">
-          <h2>How to Build Signature Pad</h2>
-          <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-        </div>
-        <div class="card-bottom flex-row">
-          <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-top">
-          <img src="img3.jpg" alt="Blog Name">
-        </div>
-        <div class="card-info">
-          <h2>How to Build Signature Pad</h2>
-          <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-        </div>
-        <div class="card-bottom flex-row">
-          <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
-        </div>
-      </div>
-      <div class="card">
+        <div class="card">
         <div class="card-top">
           <img src="img4.jpeg" alt="Blog Name">
         </div>
