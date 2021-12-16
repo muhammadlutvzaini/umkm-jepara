@@ -86,7 +86,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         <div class="card-info">
           <h2>Keramik Mayong Jepara menjadi mata pencaharian utama warga</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Sebagai daerah sentra industri kerajinan rakyat, sebagian besar warga masyarakat desanya menggantungkan kebutuhan ekonomi rumah tangganya pada kegiatan memproduksi kerajinan keramik. Berbagai kerajinan gerabah untuk kebutuhan rumah tangga dan mainan anak-anak adalah produk khas yang mewarnai kehidupan perkeramikan di daerah tersebut. Selain itu daerah ini juga merupakan daerah penghasil genteng dan batu bata. </p>
+          <p class="excerpt">Sebagai daerah sentra industri kerajinan rakyat, sebagian besar warga masyarakat desanya menggantungkan kebutuhan ekonomi rumah tangganya pada kegiatan memproduksi kerajinan keramik.</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
@@ -95,12 +95,12 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
       </div>
       <div class="card">
         <div class="card-top">
-          <img src="img3.jpg" alt="Blog Name">
+          <img src="src/content/pelatihan.jpg" alt="Foto Pelatihan">
         </div>
         <div class="card-info">
-          <h2>How to Build Signature Pad</h2>
+          <h2>Pelaku UMKM di Jepara Ikuti Pelatihan Business Plan</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+          <p class="excerpt">Santripreneur Indonesia menggandeng PT Taspen dan Abipraya  untuk  menyelenggarakan kegiatan Pelatihan Business Plan: Pemberdayaan Ekonomi Berbasis UMKM Pada Masa dan Pasca Pandemi Covid - 19.</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
@@ -109,12 +109,12 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
       </div>
         <div class="card">
         <div class="card-top">
-          <img src="img4.jpeg" alt="Blog Name">
+          <img src="src/content/aplikasiNGLARISI.jpeg" alt="aplikasiNGLARISI">
         </div>
         <div class="card-info">
-          <h2>How to Build Gsap Gallery</h2>
+          <h2>“Nglarisi UKM”, Aplikasi Penjualan Produk UMKM Jepara Diluncurkan</h2>
           <span class="date">Monday, Jan 20, 2021</span>
-          <p class="excerpt">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+          <p class="excerpt">JEPARA – Dinas Koperasi, UKM Nakertrans Kabupaten Jepara meluncurkan aplikasi penjualan produk UMKM ”Nglarisi UKM”. Aplikasi penjualan produk UMKM berbasis scan barcode ini diresmikan oleh Bupati Jepara Dian Kristiandi, Jumat (20/8/2021).</p>
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
