@@ -167,15 +167,10 @@
     width: 25px;
   }
   .nav-menu-dekstop a:nth-child(1) {
-    border-radius: 30px;
-    color: #2cb67d;
+    color: #000000;
   }
   .nav-menu-dekstop a:nth-child(1):hover {
-    background-color: #2cb67d;
-    border: 2px solid #2cb67d;
-    box-shadow: 0 5px 15px rgba(44, 182, 125, 0.5);
-    color: #ffff;
-    transition: 0.3s;
+    color: #2cb67d;
   }
   .nav-menu-dekstop a:nth-child(2) {
     border: 2px solid #2cb67d;

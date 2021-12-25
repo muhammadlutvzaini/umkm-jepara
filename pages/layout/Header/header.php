@@ -11,8 +11,8 @@
                 </svg>
                 <div class="nav-menu" id="navi">
                     <a href="/">Beranda</a>
-                    <a href="#">Daftar UMKM</a>
-                    <a href="#">Komunitas</a>
+                    <a href="/daftar-umkm">Daftar UMKM</a>
+                    <a href="/komunitas">Komunitas</a>
                     <a href="/berita">Berita</a>
 
                     <!-- Jika ingin 2 menu, atur script css nya pada mode dekstop ukuran 968px 

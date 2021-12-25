@@ -10,7 +10,7 @@
 </head>
 <body>
   <?php
-  include_once('pages/layout/Header/header.php');
+  require_once('pages/layout/Header/header.php');
 
   $redirect = $_SERVER['REQUEST_URI']; // You can also use $_SERVER['REDIRECT_URL'];
 
@@ -18,6 +18,12 @@
     case '/':
     case '':
       require __DIR__ . '/pages/components/Beranda/beranda.php';
+      break;
+    case '/daftar-umkm':
+      require __DIR__ . '/pages/components/DaftarUMKM/daftar-umkm.php';
+      break;
+    case '/komunitas':
+      require __DIR__ . '/pages/components/Komunitas/komunitas.php';
       break;
     case '/berita':
       require __DIR__ . '/pages/components/Berita/berita.php';
@@ -27,7 +33,7 @@
       break;
   }
 
-  include_once('pages/layout/Footer/footer.php');
+  require_once('pages/layout/Footer/footer.php');
   ?>
 </body>
 </html>
