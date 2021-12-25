@@ -1,0 +1,13 @@
+{
+    "name": "fiii/umkm-spa",
+    "description": "umkm-jepara",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "muhammadlutvzaini",
+            "email": "muhammadlutvzaini@gmail.com"
+        }
+    ],
+    "require": {}
+}
