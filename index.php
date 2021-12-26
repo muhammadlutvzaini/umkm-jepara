@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#2cb67d"/>
+  <meta name="viewport, theme-color" content="width=device-width, initial-scale=1.0, #2cb67d" />
+  <!-- <meta name="theme-color" content="#2cb67d"/> -->
   <link rel="stylesheet" type="text/css" href="styles/global.css">
   <title>JeparaUMKM</title>
   <link rel="shortcut icon" href="src/layout/favicon.ico" type="image/x-icon">
@@ -23,8 +23,8 @@
     case '/daftar-umkm':
       require __DIR__ . '/pages/components/DaftarUMKM/daftar-umkm.php';
       break;
-    case '/komunitas':
-      require __DIR__ . '/pages/components/Komunitas/komunitas.php';
+    case '/acara':
+      require __DIR__ . '/pages/components/Acara/acara.php';
       break;
     case '/berita':
       require __DIR__ . '/pages/components/Berita/berita.php';

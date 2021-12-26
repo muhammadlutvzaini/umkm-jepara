@@ -1,8 +1,8 @@
-<link rel="stylesheet" type="text/css" href="pages/components/Berita/berita.css">
+<link rel="stylesheet" type="text/css" href="pages/components/Acara/acara.css">
 <div class="container">
     <div class="berita">
         <div class="headline">
-            <h1>Berita</h1>
+            <h1>Acara, Event, Festival di Jepara</h1>
         </div>
         <div class="line"></div>
     </div>
