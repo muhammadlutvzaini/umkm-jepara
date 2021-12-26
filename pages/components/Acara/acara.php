@@ -1,12 +1,12 @@
 <link rel="stylesheet" type="text/css" href="pages/components/Acara/acara.css">
 <div class="container">
-    <div class="berita">
+    <div class="acara">
         <div class="headline">
             <h1>Acara, Event, Festival di Jepara</h1>
         </div>
         <div class="line"></div>
     </div>
-    <div class="beritaa">
+    <div class="acaraa">
         <div class="cards grid-row">
             <div class="card">
                 <div class="card-top">

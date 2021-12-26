@@ -1,8 +1,8 @@
-.berita {
+.acara {
     margin-top: 100px;
     text-align: center;
   }
-  .beritaa {
+  .acaraa {
       margin-top: 50px;
   }
   .line {
@@ -16,7 +16,7 @@
   .grid-row {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 60px;
+    grid-gap: 40px;
     margin: 20px 0;
   }
   .card-top img {
