@@ -12,7 +12,7 @@
                 <div class="nav-menu" id="navi">
                     <a href="/">Beranda</a>
                     <a href="/daftar-umkm">Daftar UMKM</a>
-                    <a href="/acara">Acara</a>
+                    <a href="/komunitas">Komunitas</a>
                     <a href="/berita">Berita</a>
 
                     <!-- Jika ingin 2 menu, atur script css nya pada mode dekstop ukuran 968px 
@@ -23,8 +23,8 @@
 
                 <!-- Jika ingin 2 menu di navbar, beri komentar script html yang ini -->
                 <div class="nav-menu-dekstop">
-                    <a href="pages/auth/signout.php">Daftar</a>
-                    <a href="pages/auth/signin.php">Masuk</a>
+                    <a href="#">Daftar</a>
+                    <a href="pages/auth/auth.php">Masuk</a>
                 </div>
             </div>
         </nav>
