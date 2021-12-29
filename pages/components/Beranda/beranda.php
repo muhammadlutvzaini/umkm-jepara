@@ -14,19 +14,23 @@
   <div class="content-1">
     <h1>Website UMKM Jepara</h1>
     <div class="line"></div>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, exercitationem. Error explicabo a ex magni repudiandae, pariatur, odit sit ut, at iusto maxime aliquam fugit! Nihil velit expedita nobis deserunt?
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, nulla quis. Impedit similique, totam facere molestiae aliquam placeat tempora libero quas quam ullam fugit pariatur earum nostrum corrupti atque dolores.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, id nam veniam magnam ut facilis aliquam possimus esse? Explicabo sequi ipsa assumenda! Veritatis odit libero labore! Sed suscipit reiciendis nam.
+    <p><b> Jepara</b> adalah salah satu kabupaten di Provinsi Jawa Tengah. Ibu kotanya adalah Kecamatan Jepara. Kabupaten ini berbatasan dengan Laut Jawa di barat dan utara, Kabupaten Pati dan Kabupaten Kudus di timur,
+      serta Kabupaten Demak di selatan. Wilayah Kabupaten Jepara juga meliputi Kepulauan Karimunjawa, yang berada di Laut Jawa.
     </p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, exercitationem. Error explicabo a ex magni repudiandae, pariatur, odit sit ut, at iusto maxime aliquam fugit! Nihil velit expedita nobis deserunt?
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, nulla quis. Impedit similique, totam facere molestiae aliquam placeat tempora libero quas quam ullam fugit pariatur earum nostrum corrupti atque dolores.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, id nam veniam magnam ut facilis aliquam possimus esse? Explicabo sequi ipsa assumenda! Veritatis odit libero labore! Sed suscipit reiciendis nam.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nulla reprehenderit ea? Ad velit at assumenda reprehenderit sapiente dolore ducimus provident. Assumenda modi neque repellendus, enim distinctio voluptas eius ut.
+    <p> Di Jepara sangat banyak sekali <b>UMKM</b>, tapi apakah anda tau <b>UMKM itu apa ?</b></p>
+    <p><b>Pemerintah</b> sendiri telah menetapkan pengertian UMKM dan kriterianya, beserta contoh UMKM. Arti UMKM tersebut tertuang dalam UU Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah.
+      UMKM artinya sebagai bisnis yang dijalankan individu, rumah tangga, atau badan usaha ukuran kecil. Penggolongan UMKM lazimnya dilakukan dengan batasan omzet per tahun, jumlah kekayaan atau aset, serta jumlah karyawan.
     </p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, exercitationem. Error explicabo a ex magni repudiandae, pariatur, odit sit ut, at iusto maxime aliquam fugit! Nihil velit expedita nobis deserunt?
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel, nulla quis. Impedit similique, totam facere molestiae aliquam placeat tempora libero quas quam ullam fugit pariatur earum nostrum corrupti atque dolores.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, id nam veniam magnam ut facilis aliquam possimus esse? Explicabo sequi ipsa assumenda! Veritatis odit libero labore! Sed suscipit reiciendis nam.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nulla reprehenderit ea? Ad velit at assumenda reprehenderit sapiente dolore ducimus provident. Assumenda modi neque repellendus, enim distinctio voluptas eius ut.
+    <p><b>UMKM</b> sangat berperan dalam perekonomian Indonesia, terutama karena UMKM mampu
+menyerap tenaga kerja sebesar 97,04% tenaga kerja produktif yang tersedia. Salah satu
+UMKM yang dimiliki Indonesia adalah usaha mikro monel yang ada di Kecamatan
+Kalinyamatan Kabupaten Jepara. Usaha mikro monel ini merupakan salah satu potensi
+UMKM Kabupaten Jepara yang sedang dikembangkan. Perkembangan usaha mikro monel
+cukup signifikan meningkat tiap tahunnya. Tetapi sungguh ironis, bahwa nilai produksi
+UMKM Monel merupakan nilai produksi terkecil jika dibandingkan dengan UMKM lainnya
+yang ada di Jepara. Hal ini disebabkan antara lain oleh faktor modal. Oleh sebab itu, Dinas
+UMKM Kabupaten Jepara berusaha mengembangkan usaha mikro monel dengan
+memberikan kredit bantuan
     </p>
   </div>
   <!-- <div class="content-3">
