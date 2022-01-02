@@ -33,7 +33,7 @@
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-sky">Blog</a>
+          <a href="#" class="button btn-yellow">Blog</a>
         </div>
       </div>
       <div class="card">
@@ -48,7 +48,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
+          <a href="#" class="button btn-yellow">Blog</a>
         </div>
       </div>
       <div class="card">
@@ -62,7 +62,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
+          <a href="#" class="button btn-yellow">Blog</a>
         </div>
       </div>
       <div class="card">
@@ -76,7 +76,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
+          <a href="#" class="button btn-yellow">Blog</a>
         </div>
       </div>
       <div class="card">
@@ -90,7 +90,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
+          <a href="#" class="button btn-yellow">Blog</a>
         </div>
       </div>
       <div class="card">
@@ -104,7 +104,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
+          <a href="#" class="button btn-yellow">Blog</a>
         </div>
       </div>
         <div class="card">
@@ -118,7 +118,7 @@ Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali menduni
         </div>
         <div class="card-bottom flex-row">
           <a href="#" class="read-more">Read Full Blog</a>
-          <a href="#" class="button btn-dpink">Blog</a>
+          <a href="#" class="button btn-yellow">Blog</a>
         </div>
       </div>
     </div>

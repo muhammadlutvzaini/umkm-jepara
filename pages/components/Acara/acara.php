@@ -10,115 +10,114 @@
         <div class="cards grid-row">
             <div class="card">
                 <div class="card-top">
-                    <img src="/src/content/kartini.jpg" alt="Kartini">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>Kabupaten Jepara: “Bumi Kartini” di Utara Jawa Tengah</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Jepara terkenal dengan julukan "Bumi Kartini" karena mempunyai kaitan sejarah yang kuat dengan pahlawan nasional Raden Ajeng Kartini. Selain itu, kabupaten ini dikenal pula sebagai daerah penghasil kerajinan ukiran kayu yang terkenal hingga mancanegara.</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-yellow">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="/src/content/karimunjawa.jpg" alt="karimunjawa">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>Pulau Karimun Jawa : Eksotisme Surga Tersembunyi Di Selat Jawa</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Karena bentuknya yang berupa kepulauan, tentu saja Karimun Jawa memberikan keindahan pemandangan laut dan pulau yang membentuk keindahan baik ketika matahari terbit atau matahari terbenam.</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-sky">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/mebel.jpg" alt="Foto mebel Jepara">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>Kisah Penjual Mebel Jepara yang Mendunia</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Indonesia memiliki banyak sekali hasil alam yang saat ini menjadi pusat komiditi yang bisa di impor ke luar negeri salah satunya adalah hasil kreatif olah tangan dalam bidang furniture.
-                        Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali mendunia dengan hasil import mebel baik lemari, meja, kursi, sampai dengan jenis jn jenis furniture lainya.</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-dpink">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="/src/content/tenuntroso.jpg" alt="Pengrajin Tenun Troso">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>UMKM Kain Tenun Troso warisan Nenek Moyang yang punya daya saing pada era globalisasi</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Kain tenun Troso merupakan produk yang bertempat di Desa Troso, Kecamatan Pecangaan, Kabupaten Jepara. Sentra Tenun Troso menjadi kebanggaan tersendiri bagi warga Jepara ketika produk kain tenun bisa sampai ke luar kota seperti Jakarta, Bali, Nusa Tenggara Barat (NTB), Nusa Tenggara Timur (NTT) dan Lombok.</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-dpink">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/monel.jpg" alt="Monel Jepara">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>Perajin Monel Khas Jepara, Raup Omzet Puluhan Juta, Dipesan dari Berbagai Negara</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Kabupaten Jepara tidak melulu soal ukiran kayu. Di Desa Kriyan, Kecamatan Kalinyamatan, sejumlah anak muda menjalankan bisnis kerajinan monel. Tidak tanggung-tanggung, bisnis ini bisa meraup omzet puluhan juta. Bahkan tidak jarang, perajin terima pesanan dari negeri tetangga.</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-dpink">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/mayongjepara.jpg" alt="Keramik Mayong">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>Keramik Mayong Jepara menjadi mata pencaharian utama warga</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Sebagai daerah sentra industri kerajinan rakyat, sebagian besar warga masyarakat desanya menggantungkan kebutuhan ekonomi rumah tangganya pada kegiatan memproduksi kerajinan keramik.</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-dpink">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/pelatihan.jpg" alt="Foto Pelatihan">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>Pelaku UMKM di Jepara Ikuti Pelatihan Business Plan</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Santripreneur Indonesia menggandeng PT Taspen dan Abipraya untuk menyelenggarakan kegiatan Pelatihan Business Plan: Pemberdayaan Ekonomi Berbasis UMKM Pada Masa dan Pasca Pandemi Covid - 19.</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-dpink">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/aplikasiNGLARISI.jpeg" alt="aplikasiNGLARISI">
+                    <img src="src/content/jepara-fashion.jpeg" alt="Jepara Event">
                 </div>
                 <div class="card-info">
-                    <h2>“Nglarisi UKM”, Aplikasi Penjualan Produk UMKM Jepara Diluncurkan</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">JEPARA – Dinas Koperasi, UKM Nakertrans Kabupaten Jepara meluncurkan aplikasi penjualan produk UMKM ”Nglarisi UKM”. Aplikasi penjualan produk UMKM berbasis scan barcode ini diresmikan oleh Bupati Jepara Dian Kristiandi, Jumat (20/8/2021).</p>
+                    <h2>Jepara Fashion On The Street "JFOTS"</h2>
+                    <span class="address">Jalan Kartini di Jepara.</span>
+                    <p class="excerpt">Jepara Fashion On The Street atau "JFOTS" adalah sebuah festival fashion show tahunan yang diadakan di Kabupaten Jepara setiap tahun atas prakarsa Pemerintah Kabupaten Jepara dan Dinas Perindustrian dan Perdagangan.</p>
                 </div>
                 <div class="card-bottom flex-row">
-                    <a href="#" class="read-more">Read Full Blog</a>
-                    <a href="#" class="button btn-dpink">Blog</a>
+                    <a href="#" class="read-more">Read Full</a>
+                    <a href="#" class="button btn-sky">Event</a>
                 </div>
             </div>
         </div>

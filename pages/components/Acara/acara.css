@@ -30,7 +30,7 @@
     box-shadow: 0px 0px 5px rgb(0 0 0 / 20%);
   }
   .card:hover {
-    box-shadow: 0px 0px 20px rgb(0 0 0 / 20%);
+    box-shadow: 0px 0px 10px #2cb67d;
   
   }
   .card-top {
@@ -42,7 +42,7 @@
     font-size: 18px;
     margin: 10px 0 5px 0;
   }
-  .date {
+  .address {
     margin-bottom: 10px;
     font-size: 15px;
     display: block;
@@ -81,9 +81,5 @@
     background: #ffb91d;
   }
   .btn-sky {
-    background: #d2f9fe;
+    background: #48dff3;
   }
-  .btn-dpink {
-    background: #e8d3fc;
-  }
-  
