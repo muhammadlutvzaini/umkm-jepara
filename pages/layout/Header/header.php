@@ -10,9 +10,9 @@
                     <path d="M4 6h16M4 12h16m-7 6h7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
                 </svg>
                 <div class="nav-menu" id="navi">
-                    <a href="/">Beranda</a>
+                    <a href="/beranda">Beranda</a>
                     <a href="/daftar-umkm">Daftar UMKM</a>
-                    <a href="/komunitas">Komunitas</a>
+                    <a href="/acara">Acara</a>
                     <a href="/berita">Berita</a>
 
                     <!-- Jika ingin 2 menu, atur script css nya pada mode dekstop ukuran 968px 

@@ -22,8 +22,8 @@
     case '/daftar-umkm':
       require __DIR__ . '/pages/components/DaftarUMKM/daftar-umkm.php';
       break;
-    case '/komunitas':
-      require __DIR__ . '/pages/components/Komunitas/komunitas.php';
+    case '/acara':
+      require __DIR__ . '/pages/components/Acara/acara.php';
       break;
     case '/berita':
       require __DIR__ . '/pages/components/Berita/berita.php';

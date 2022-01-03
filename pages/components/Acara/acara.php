@@ -6,16 +6,16 @@
         </div>
         <div class="line"></div>
     </div>
-    <div class="acaraa">
+    <div class="acara">
         <div class="cards grid-row">
             <div class="card">
                 <div class="card-top">
-                    <img src="/src/content/kartini.jpg" alt="Kartini">
+                    <img src="/src/content/festivaltenun.jpg" alt="Festival Tenun Troso">
                 </div>
                 <div class="card-info">
-                    <h2>Kabupaten Jepara: “Bumi Kartini” di Utara Jawa Tengah</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Jepara terkenal dengan julukan "Bumi Kartini" karena mempunyai kaitan sejarah yang kuat dengan pahlawan nasional Raden Ajeng Kartini. Selain itu, kabupaten ini dikenal pula sebagai daerah penghasil kerajinan ukiran kayu yang terkenal hingga mancanegara.</p>
+                    <h2>Festival Tenun Troso Jadi Agenda Tahunan Kabupaten Jepara</h2>
+                    <span class="date">5 Maret 2020</span>
+                    <p class="excerpt">JEPARA – Festival tenun troso dijadikan sebagai agenda tahunan di Kabupaten Jepara. Seperti event lainnya, pelaksanaan kegiatan ini juga menjadi tanggung jawab Pemerintah Kabupaten (Pemkab) Jepara.</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
@@ -24,12 +24,12 @@
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="/src/content/karimunjawa.jpg" alt="karimunjawa">
+                    <img src="/src/content/festivalseniukir.jpg" alt="Festival Seni dan Budaya Ukir Jepara">
                 </div>
                 <div class="card-info">
                     <h2>Pulau Karimun Jawa : Eksotisme Surga Tersembunyi Di Selat Jawa</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Karena bentuknya yang berupa kepulauan, tentu saja Karimun Jawa memberikan keindahan pemandangan laut dan pulau yang membentuk keindahan baik ketika matahari terbit atau matahari terbenam.</p>
+                    <span class="date">19 Mei 2021</span>
+                    <p class="excerpt">Seni & Budaya Ukir Jepara Festival adalah kegiatan yang di selenggarakan tahunan di Desa Mulyoharjo Kecamatan Jepara Kabupaten Jepara. Festival ini untuk lebih mengenalkan Budaya Ukir Jepara kepada pelajar, mahasiswa, dan masyarakat umum. desa Mulyoharjo adalah Desa Wisata Industri Kreatif (DEWINDIF).</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
@@ -38,13 +38,12 @@
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/mebel.jpg" alt="Foto mebel Jepara">
+                    <img src="src/content/pestalomban.jpg" alt="pestalomban">
                 </div>
                 <div class="card-info">
-                    <h2>Kisah Penjual Mebel Jepara yang Mendunia</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Indonesia memiliki banyak sekali hasil alam yang saat ini menjadi pusat komiditi yang bisa di impor ke luar negeri salah satunya adalah hasil kreatif olah tangan dalam bidang furniture.
-                        Dan, salah satu kota di Jawa Tengah yakni Mebel Jepara sudah lama sekali mendunia dengan hasil import mebel baik lemari, meja, kursi, sampai dengan jenis jn jenis furniture lainya.</p>
+                    <h2>Pesta Lomban di Pantai Kartini Jepara </h2>
+                    <span class="date">11 Juni 2021</span>
+                    <p class="excerpt">Pesta Lomban atau dikenal juga dengan nama oleh masyarakat setempat sebagai bakda kupat dan bakda lomban adalah pesta masyarakat nelayan di wilayah Kabupaten Jepara dalam bentuk sedekah laut. Namun kini sudah menjadi milik keseluruhan masyarakat Jepara, bukan nelayan saja.</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
@@ -53,12 +52,12 @@
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="/src/content/tenuntroso.jpg" alt="Pengrajin Tenun Troso">
+                    <img src="/src/content/kupatlepet.jpg" alt="Festival kupat lepet">
                 </div>
                 <div class="card-info">
-                    <h2>UMKM Kain Tenun Troso warisan Nenek Moyang yang punya daya saing pada era globalisasi</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Kain tenun Troso merupakan produk yang bertempat di Desa Troso, Kecamatan Pecangaan, Kabupaten Jepara. Sentra Tenun Troso menjadi kebanggaan tersendiri bagi warga Jepara ketika produk kain tenun bisa sampai ke luar kota seperti Jakarta, Bali, Nusa Tenggara Barat (NTB), Nusa Tenggara Timur (NTT) dan Lombok.</p>
+                    <h2>Festival Kupat Lepet Jepara</h2>
+                    <span class="date">12 Juni 2019</span>
+                    <p class="excerpt">JEPARA – Tradisi Festival Kupat Lepet yang menjadi agenda tahunan Kabupaten Jepara, selalu jadi magnet bagi semua orang. Terlebih, Ketupat dan lepat yang telah didoakan bersama-sama ini, diyakini sebagian warga membawa berkah. Tradisi sarat akan makna tersebut sudah berlangsung sejak tahun 2006.</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
@@ -67,12 +66,12 @@
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/monel.jpg" alt="Monel Jepara">
+                    <img src="src/content/bukaluwur.jpg" alt="Tradisi buka Luwur">
                 </div>
                 <div class="card-info">
-                    <h2>Perajin Monel Khas Jepara, Raup Omzet Puluhan Juta, Dipesan dari Berbagai Negara</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Kabupaten Jepara tidak melulu soal ukiran kayu. Di Desa Kriyan, Kecamatan Kalinyamatan, sejumlah anak muda menjalankan bisnis kerajinan monel. Tidak tanggung-tanggung, bisnis ini bisa meraup omzet puluhan juta. Bahkan tidak jarang, perajin terima pesanan dari negeri tetangga.</p>
+                    <h2>Tradisi buka Luwur Hari Jadi Jepara</h2>
+                    <span class="date">9 April 2021</span>
+                    <p class="excerpt">Prosesi buka luwur atau mengganti kain penutup makam,dalam prosesi buka luwur ini, merupakan suatu tradisi dan budaya yang setiap tahun dilaksanakan menjelang hari jadi Jepara. Dalam kegiatan ini juga mendoakan para tokoh dan leluhur Jepara yang telah menunjukkan pengabdian dan perjuangannya di masa itu.</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
@@ -81,12 +80,12 @@
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/mayongjepara.jpg" alt="Keramik Mayong">
+                    <img src="src/content/PerangObor.jpg" alt="Perang Obor Tegal Sambi">
                 </div>
                 <div class="card-info">
-                    <h2>Keramik Mayong Jepara menjadi mata pencaharian utama warga</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Sebagai daerah sentra industri kerajinan rakyat, sebagian besar warga masyarakat desanya menggantungkan kebutuhan ekonomi rumah tangganya pada kegiatan memproduksi kerajinan keramik.</p>
+                    <h2>Perang Obor Desa Tegalsambi</h2>
+                    <span class="date">5 Agustus 2020</span>
+                    <p class="excerpt">Warga Desa Tegalsambi, Kecamatan Tahunan memiliki tradisi unik yang diyakini sebagai tolak balak, tradisi tersebut dikenal dengan nama “Perang Obor”. Tradisi yang rutin digelar setiap Senin Pahing malam Selasa Pon di bulan Dzulhijjah atau Besar itu, bersamaan dengan acara sedekah bumi.</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
@@ -95,12 +94,12 @@
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/pelatihan.jpg" alt="Foto Pelatihan">
+                    <img src="src/content/memedanGadu.jpg" alt="Festival Memeden Gadu">
                 </div>
                 <div class="card-info">
-                    <h2>Pelaku UMKM di Jepara Ikuti Pelatihan Business Plan</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">Santripreneur Indonesia menggandeng PT Taspen dan Abipraya untuk menyelenggarakan kegiatan Pelatihan Business Plan: Pemberdayaan Ekonomi Berbasis UMKM Pada Masa dan Pasca Pandemi Covid - 19.</p>
+                    <h2>Festival Memeden Gadu</h2>
+                    <span class="date">5 September 2020</span>
+                    <p class="excerpt">Festival ini yang melibatkan petani tersebut bertujuan menjaga kearifan lokal serta menghidupkan kembali cara-cara mengusir hama tanaman padi terutama burung dengan menggunakan orang-orangan sawah (memeden gadhu) dan tidak menggunakan pestisida. Cara ini paling mujarab untuk mengusir burung yang suka makan padi yang mulai berbuah.</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
@@ -109,12 +108,12 @@
             </div>
             <div class="card">
                 <div class="card-top">
-                    <img src="src/content/aplikasiNGLARISI.jpeg" alt="aplikasiNGLARISI">
+                    <img src="src/content/JembulTulakan.jpg" alt=" Prosesi Jembul Tulakan">
                 </div>
                 <div class="card-info">
-                    <h2>“Nglarisi UKM”, Aplikasi Penjualan Produk UMKM Jepara Diluncurkan</h2>
-                    <span class="date">Monday, Jan 20, 2021</span>
-                    <p class="excerpt">JEPARA – Dinas Koperasi, UKM Nakertrans Kabupaten Jepara meluncurkan aplikasi penjualan produk UMKM ”Nglarisi UKM”. Aplikasi penjualan produk UMKM berbasis scan barcode ini diresmikan oleh Bupati Jepara Dian Kristiandi, Jumat (20/8/2021).</p>
+                    <h2>Prosesi Jembul Tulakan</h2>
+                    <span class="date">17 November 2021</span>
+                    <p class="excerpt">Upacara Jembul Tulakan ini dimulai dengan mencuci kaki petinggi atau sekaaran dikenal dengan kepala desa dengan kembang setaman. Aktivitas ini dilakukan oleh perangkat desa, sebagai perlambang kepada Ratu Kalinyamat.</p>
                 </div>
                 <div class="card-bottom flex-row">
                     <a href="#" class="read-more">Read Full Blog</a>
