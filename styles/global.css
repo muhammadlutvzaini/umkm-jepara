@@ -35,7 +35,7 @@ body {
   padding: 0 20px;
   top: 0;
   left: 0;
-  right: 0;
+  right:0;
   transition: 0.3s;
   /* display: flex;
   justify-content: space-between; */
@@ -44,5 +44,5 @@ body {
   margin: 0 auto;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  padding: 20px 0;
+  padding: 50px 20px;
 }

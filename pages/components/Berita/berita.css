@@ -30,7 +30,7 @@
   box-shadow: 0px 0px 5px rgb(0 0 0 / 20%);
 }
 .card:hover {
-  box-shadow: 0px 0px 20px rgb(0 0 0 / 20%);
+  box-shadow: 0px 0px 10px #2cb67d;
 
 }
 .card-top {
@@ -79,10 +79,4 @@
 }
 .btn-yellow {
   background: #ffb91d;
-}
-.btn-sky {
-  background: #d2f9fe;
-}
-.btn-dpink {
-  background: #e8d3fc;
 }

@@ -15,8 +15,9 @@
   $redirect = $_SERVER['REQUEST_URI']; // You can also use $_SERVER['REDIRECT_URL'];
 
   switch ($redirect) {
-    case '/':
     case '':
+    case '/':
+    case '/index.php':
       require __DIR__ . '/pages/components/Beranda/beranda.php';
       break;
     case '/daftar-umkm':
